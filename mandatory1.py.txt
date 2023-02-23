@@ -1,3 +1,5 @@
+#Assignments
+
 #1. Creating sets
 board_of_directors = {'Benny', 'Hans', 'Tine', 'Mille', 'Torben', 'Troels', 'Søren'}
 management = {'Tine', 'Trunte', 'Rane'}
